@@ -1,0 +1,7 @@
+resource_group_name = "ashu2021"
+resource_group_location = "West US"
+virtual_network_name = "ak"
+subnet_name = "aksubnet"
+network_interface_name = "ak2021"
+virtual_machine_name = "myvm"
+managed_disk_name = "ashu_disk"
